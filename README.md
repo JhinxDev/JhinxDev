@@ -20,7 +20,7 @@ I'm also exploring more immersive 3D product storytelling. New experiments stay 
 
 CSV cleanup, repeatable reporting, editable Excel dashboards and tools that turn a defined input into a useful result. I favour a bounded project with explicit calculation rules, validation and an update guide, so the person receiving it can operate it.
 
-**Northline Supply** is my current synthetic business-tools demonstration: a sales dashboard and an inventory/reorder planner. The Excel workbooks have passed 22 native Windows Excel checks. Their browser previews are separate implementations, not live views of workbook edits. The public presentation is still being prepared.
+**[Northline Supply](https://jhinx.dev/work/sales-management-dashboard)** is my synthetic business-tools demonstration: sales reporting and inventory planning. Its public [Excel refresh package](https://github.com/JhinxDev/northline-excel-refresh/releases/tag/v1.1.0) imports monthly CSV files with Power Query, separates exceptions and reconciles the results. The included exercise has 1,193 input rows, 1,182 accepted orders and 11 intentional exceptions, verified in Windows Excel. A [setup guide](https://github.com/JhinxDev/northline-excel-refresh/blob/main/OPERATOR-GUIDE.md) explains first refresh. Browser previews remain separate implementations.
 
 The aim is a maintainable handoff. New data sources, live integrations and ongoing operations need their own scope.
 
@@ -28,7 +28,7 @@ The aim is a maintainable handoff. New data sources, live integrations and ongoi
 
 Small API connections, webhook mapping and read-only Model Context Protocol (MCP) adapters for AI tools. My public examples make the input, permitted actions, failure cases and limitations inspectable.
 
-- **[Webhook Contract Repair](https://github.com/JhinxDev/webhook-contract-repair)** reproduces a rejected payload, fixes validation and mapping, and verifies the result over local HTTP. Includes 17 tests and Windows/Ubuntu CI.
+- **[Webhook Contract Repair](https://github.com/JhinxDev/webhook-contract-repair)** repairs a rejected payload and adds a [v0.2 recovery lab](https://github.com/JhinxDev/webhook-contract-repair/blob/main/docs/replay-lab.md) for duplicate delivery, restart recovery, conflicts and bounded replay. Includes 29 tests and Windows/Ubuntu CI. Recovery is demonstrated only for a synthetic local database effect, with no guarantee of exactly-once external effects.
 - **[Scoped Support MCP](https://github.com/JhinxDev/scoped-support-mcp)** connects two read-only MCP tools to a synthetic support API, with tenant filtering, minimized responses and bounded failures. Includes 15 tests and Windows/Ubuntu CI.
 
 Both are AI-assisted personal case studies with synthetic data, not paid client deployments. Their documentation explains the production capabilities they do not cover.
