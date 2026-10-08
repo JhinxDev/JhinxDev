@@ -14,7 +14,7 @@ Responsive business websites, landing pages and interactive product experiences.
 
 **[Jhinx Design](https://design.jhinx.dev/)** brings together original concept websites across products, software, creative studios and hospitality. Explore [Roam Press, a product website](https://design.jhinx.dev/demos/roam/) or [Morrow, a SaaS concept](https://design.jhinx.dev/demos/morrow/). These are personal demonstrations; shopping, booking and approval interactions are simulated where stated.
 
-I'm also exploring more immersive 3D product storytelling. New experiments stay separate from the published portfolio until they are ready to show.
+[STRATA 75](https://design.jhinx.dev/demos/strata-75/) is a published interactive product concept for a fictional 81-key keyboard. It combines a reversible construction story, full-angle 3D exploration and three finishes saved locally in the browser, with keyboard controls and reduced-motion alternatives. It is an AI-assisted personal design study; no real product, orders or payments are involved.
 
 ## 02 / Practical automation & business tools
 
