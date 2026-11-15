@@ -7,6 +7,7 @@ I'm Yas, a developer and designer in Montréal. I build interactive websites, se
 ## Selected projects
 
 - **[Omakase Plus](https://github.com/JhinxDev/omakase-plus)** brings anime, movies, and TV into one self-hosted library with watchlists, viewing progress, and playback from connected sources. [Documentation](https://omakase-plus.jhinx.dev/)
+- **[Sona](https://github.com/JhinxDev/Sona)** is a Windows dictation app that runs Parakeet or Whisper locally. It keeps a reviewable draft, remembers corrections, and can mute your Discord mic while you dictate.
 - **[STRATA 75](https://design.jhinx.dev/demos/strata-75/)** is an interactive keyboard concept with a scroll-driven build sequence, a 3D viewer, and three finishes.
 - **[Northline Supply](https://jhinx.dev/work/sales-management-dashboard)** is a sample sales and inventory workflow with an [Excel refresh package](https://github.com/JhinxDev/northline-excel-refresh) for importing CSVs and reconciling exceptions.
 - **[Webhook Contract Repair](https://github.com/JhinxDev/webhook-contract-repair)** and **[Scoped Support MCP](https://github.com/JhinxDev/scoped-support-mcp)** demonstrate replay recovery and tenant-scoped reads using synthetic data.
